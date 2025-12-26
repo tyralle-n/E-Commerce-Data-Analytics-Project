@@ -1,0 +1,1 @@
+SELECT * FROM ecommerce_orders.ecommerce_dataset_200;
