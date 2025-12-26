@@ -3,6 +3,8 @@
 This project is an interactive E-Commerce Sales Dashboard built using Microsoft Excel and MySQL. The goal was to analyse sales performance data and transform raw 
 transactional data into meaningful business insights using various aggregations, pivot tables, pivot charts, KPIs, and slicers.
 
+SQL queries were executed in MySQL to generate aggregated results, which were then exported and visualized in Excel.
+
 The dashboard allows users to explore revenue trends, product performance, order volume, and customer distribution across different dimensions such as time, category, and country.
 
 🎯 Objectives:
