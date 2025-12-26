@@ -1,0 +1,201 @@
+order_id;customer_id;product_name;category;price;quantity;order_date;payment_method;country
+1;63;Desk Lamp;Home;220;4;2024/05/18;EFT;South Africa
+2;13;Wireless Mouse;Electronics;150;2;2024/03/09;EFT;South Africa
+3;58;Desk Lamp;Home;220;2;2024/08/02;Card;Botswana
+4;27;T-shirt;Clothing;180;3;2024/10/18;Card;Namibia
+5;69;Desk Lamp;Home;220;2;2024/05/14;Wallet;Botswana
+6;74;Backpack;Accessories;500;1;2024/06/01;Card;South Africa
+7;10;Bluetooth Headphones;Electronics;650;4;2024/01/15;Wallet;Botswana
+8;50;Notebook;Stationery;45;3;2024/09/14;EFT;South Africa
+9;6;Running Shoes;Sports;900;5;2024/12/09;Card;South Africa
+10;43;Backpack;Accessories;500;5;2024/11/18;Wallet;South Africa
+11;77;Bluetooth Headphones;Electronics;650;1;2024/03/04;Wallet;South Africa
+12;53;Wireless Mouse;Electronics;150;3;2024/05/18;Wallet;South Africa
+13;32;Backpack;Accessories;500;4;2024/02/24;Cash;Botswana
+14;71;Desk Lamp;Home;220;1;2024/06/14;Card;South Africa
+15;35;Notebook;Stationery;45;1;2024/02/26;EFT;South Africa
+16;40;Backpack;Accessories;500;1;2024/10/04;EFT;South Africa
+17;57;USB-C Cable;Electronics;80;2;2024/08/23;EFT;Botswana
+18;69;Desk Lamp;Home;220;1;2024/07/12;EFT;South Africa
+19;1;USB-C Cable;Electronics;80;2;2024/08/10;Card;South Africa
+20;27;Running Shoes;Sports;900;2;2024/06/25;Cash;Botswana
+21;75;Bluetooth Headphones;Electronics;650;1;2024/07/21;Wallet;Botswana
+22;15;USB-C Cable;Electronics;80;2;2024/08/30;Card;Botswana
+23;64;T-shirt;Clothing;180;3;2024/04/20;Cash;South Africa
+24;30;Running Shoes;Sports;900;1;2024/11/05;Wallet;South Africa
+25;59;Laptop Bag;Accessories;350;3;2024/10/28;EFT;South Africa
+26;22;Notebook;Stationery;45;3;2024/11/23;Card;South Africa
+27;34;Water Bottle;Home;120;2;2024/06/22;Wallet;Namibia
+28;67;USB-C Cable;Electronics;80;5;2024/06/22;Wallet;Botswana
+29;56;Notebook;Stationery;45;1;2024/10/01;EFT;Namibia
+30;11;Notebook;Stationery;45;4;2024/06/04;Cash;South Africa
+31;76;Water Bottle;Home;120;4;2024/04/28;Wallet;Namibia
+32;32;Desk Lamp;Home;220;5;2024/07/25;EFT;Botswana
+33;45;Wireless Mouse;Electronics;150;3;2024/10/02;Wallet;Namibia
+34;28;Backpack;Accessories;500;5;2024/05/12;EFT;South Africa
+35;21;USB-C Cable;Electronics;80;3;2024/10/14;Wallet;South Africa
+36;45;Bluetooth Headphones;Electronics;650;2;2024/03/15;Cash;South Africa
+37;22;USB-C Cable;Electronics;80;2;2024/12/21;Card;South Africa
+38;22;Backpack;Accessories;500;5;2024/04/06;EFT;South Africa
+39;78;Bluetooth Headphones;Electronics;650;4;2024/09/14;EFT;South Africa
+40;24;USB-C Cable;Electronics;80;5;2024/02/18;Cash;Namibia
+41;70;Running Shoes;Sports;900;3;2024/04/15;Wallet;South Africa
+42;76;Water Bottle;Home;120;3;2024/01/24;EFT;Namibia
+43;31;USB-C Cable;Electronics;80;3;2024/03/17;Card;South Africa
+44;4;Water Bottle;Home;120;3;2024/10/26;Card;Namibia
+45;4;Desk Lamp;Home;220;1;2024/07/18;Card;South Africa
+46;2;Water Bottle;Home;120;2;2024/11/13;Cash;South Africa
+47;28;Running Shoes;Sports;900;1;2024/03/27;Wallet;South Africa
+48;24;Notebook;Stationery;45;3;2024/03/10;Cash;South Africa
+49;71;Water Bottle;Home;120;4;2024/02/19;Cash;Namibia
+50;37;Laptop Bag;Accessories;350;3;2024/07/22;Card;Namibia
+51;19;Running Shoes;Sports;900;1;2024/11/12;Cash;South Africa
+52;41;Bluetooth Headphones;Electronics;650;3;2024/03/14;Cash;Namibia
+53;47;Laptop Bag;Accessories;350;2;2024/08/07;Wallet;Botswana
+54;70;Laptop Bag;Accessories;350;5;2024/05/02;EFT;South Africa
+55;42;Water Bottle;Home;120;4;2024/06/22;EFT;Namibia
+56;2;Bluetooth Headphones;Electronics;650;1;2024/05/14;Cash;South Africa
+57;80;Notebook;Stationery;45;5;2024/10/11;Card;South Africa
+58;21;Backpack;Accessories;500;2;2024/06/30;Card;South Africa
+59;69;T-shirt;Clothing;180;4;2024/04/27;Wallet;South Africa
+60;25;T-shirt;Clothing;180;3;2024/12/06;Wallet;South Africa
+61;50;USB-C Cable;Electronics;80;2;2024/05/23;Cash;Botswana
+62;76;T-shirt;Clothing;180;2;2024/01/18;Wallet;Namibia
+63;47;USB-C Cable;Electronics;80;2;2024/02/11;Cash;Namibia
+64;17;Water Bottle;Home;120;1;2024/06/22;Wallet;Botswana
+65;7;Water Bottle;Home;120;4;2024/08/13;Card;Botswana
+66;44;Desk Lamp;Home;220;5;2024/03/09;Card;South Africa
+67;76;Water Bottle;Home;120;5;2024/09/15;Wallet;South Africa
+68;74;Laptop Bag;Accessories;350;1;2024/08/21;Cash;South Africa
+69;65;Laptop Bag;Accessories;350;2;2024/10/31;Wallet;South Africa
+70;53;Running Shoes;Sports;900;2;2024/05/02;EFT;South Africa
+71;22;Running Shoes;Sports;900;5;2024/12/27;EFT;South Africa
+72;39;Wireless Mouse;Electronics;150;2;2024/02/09;Wallet;South Africa
+73;62;Backpack;Accessories;500;2;2024/08/28;Cash;South Africa
+74;77;Water Bottle;Home;120;1;2024/02/13;Cash;Namibia
+75;78;Bluetooth Headphones;Electronics;650;5;2024/11/05;Cash;Botswana
+76;33;Laptop Bag;Accessories;350;2;2024/09/03;EFT;South Africa
+77;50;USB-C Cable;Electronics;80;1;2024/12/24;EFT;South Africa
+78;33;Running Shoes;Sports;900;1;2024/10/17;Cash;Botswana
+79;75;Notebook;Stationery;45;5;2024/01/11;Wallet;South Africa
+80;3;USB-C Cable;Electronics;80;1;2024/03/15;EFT;South Africa
+81;51;Water Bottle;Home;120;4;2024/03/03;Wallet;Namibia
+82;17;Bluetooth Headphones;Electronics;650;2;2024/11/08;Card;South Africa
+83;12;Running Shoes;Sports;900;3;2024/09/10;EFT;Botswana
+84;54;Bluetooth Headphones;Electronics;650;2;2024/04/01;Card;Namibia
+85;57;Water Bottle;Home;120;4;2024/01/02;Wallet;South Africa
+86;36;Wireless Mouse;Electronics;150;5;2024/12/16;Cash;Botswana
+87;1;Desk Lamp;Home;220;1;2024/05/07;EFT;Botswana
+88;62;USB-C Cable;Electronics;80;3;2024/01/21;Wallet;Namibia
+89;67;Laptop Bag;Accessories;350;5;2024/11/24;Wallet;Botswana
+90;12;USB-C Cable;Electronics;80;4;2024/12/05;Cash;Botswana
+91;21;Backpack;Accessories;500;5;2024/01/12;Cash;South Africa
+92;40;USB-C Cable;Electronics;80;2;2024/06/15;Cash;Botswana
+93;10;Notebook;Stationery;45;2;2024/02/27;EFT;Namibia
+94;41;Laptop Bag;Accessories;350;3;2024/05/06;EFT;Namibia
+95;47;Backpack;Accessories;500;2;2024/06/23;Wallet;South Africa
+96;4;Bluetooth Headphones;Electronics;650;2;2024/09/15;Card;South Africa
+97;24;USB-C Cable;Electronics;80;2;2024/08/04;Cash;South Africa
+98;40;Desk Lamp;Home;220;2;2024/04/27;EFT;Namibia
+99;57;T-shirt;Clothing;180;4;2024/10/10;Card;South Africa
+100;75;Running Shoes;Sports;900;5;2024/06/06;Wallet;Botswana
+101;55;USB-C Cable;Electronics;80;4;2024/09/02;Card;South Africa
+102;57;Laptop Bag;Accessories;350;5;2024/07/17;EFT;South Africa
+103;18;Desk Lamp;Home;220;3;2024/08/21;Card;Botswana
+104;28;Notebook;Stationery;45;5;2024/04/05;EFT;Namibia
+105;45;Wireless Mouse;Electronics;150;3;2024/02/01;EFT;Namibia
+106;57;Desk Lamp;Home;220;4;2024/10/24;Wallet;Namibia
+107;10;Laptop Bag;Accessories;350;4;2024/08/20;Wallet;South Africa
+108;21;T-shirt;Clothing;180;1;2024/08/03;Card;Namibia
+109;41;Backpack;Accessories;500;4;2024/11/25;EFT;Botswana
+110;38;Backpack;Accessories;500;1;2024/06/13;Cash;South Africa
+111;58;Laptop Bag;Accessories;350;2;2024/01/10;EFT;South Africa
+112;56;Wireless Mouse;Electronics;150;2;2024/05/21;Wallet;South Africa
+113;42;Bluetooth Headphones;Electronics;650;4;2024/10/22;EFT;Botswana
+114;78;Laptop Bag;Accessories;350;3;2024/10/05;Card;South Africa
+115;79;Backpack;Accessories;500;3;2024/03/24;Wallet;Namibia
+116;36;Laptop Bag;Accessories;350;2;2024/03/27;Cash;South Africa
+117;20;Desk Lamp;Home;220;3;2024/12/27;EFT;South Africa
+118;60;Desk Lamp;Home;220;3;2024/09/03;Cash;Namibia
+119;33;Desk Lamp;Home;220;1;2024/02/24;Card;South Africa
+120;1;Notebook;Stationery;45;5;2024/09/01;Wallet;Botswana
+121;78;Notebook;Stationery;45;3;2024/04/20;Card;South Africa
+122;11;Running Shoes;Sports;900;4;2024/05/15;EFT;Botswana
+123;57;Water Bottle;Home;120;1;2024/02/06;Wallet;South Africa
+124;18;T-shirt;Clothing;180;1;2024/04/04;EFT;Botswana
+125;46;Desk Lamp;Home;220;5;2024/12/20;EFT;South Africa
+126;73;Backpack;Accessories;500;5;2024/09/14;Cash;Botswana
+127;34;Laptop Bag;Accessories;350;3;2024/03/01;Wallet;South Africa
+128;44;Wireless Mouse;Electronics;150;1;2024/11/15;EFT;South Africa
+129;17;Running Shoes;Sports;900;1;2024/06/05;Cash;Namibia
+130;68;USB-C Cable;Electronics;80;5;2024/01/15;Wallet;Namibia
+131;53;T-shirt;Clothing;180;3;2024/01/26;Cash;South Africa
+132;76;T-shirt;Clothing;180;4;2024/12/13;Cash;Namibia
+133;7;USB-C Cable;Electronics;80;4;2024/07/20;Cash;Botswana
+134;2;T-shirt;Clothing;180;4;2024/08/10;Cash;Botswana
+135;64;Wireless Mouse;Electronics;150;2;2024/04/09;Wallet;Botswana
+136;76;Notebook;Stationery;45;5;2024/12/24;EFT;South Africa
+137;8;T-shirt;Clothing;180;5;2024/10/08;Wallet;South Africa
+138;27;Water Bottle;Home;120;3;2024/01/22;EFT;Botswana
+139;28;Water Bottle;Home;120;2;2024/07/24;Card;Namibia
+140;16;Backpack;Accessories;500;1;2024/07/28;Wallet;South Africa
+141;65;Notebook;Stationery;45;4;2024/06/30;EFT;South Africa
+142;59;Laptop Bag;Accessories;350;5;2024/08/24;Cash;Namibia
+143;78;Desk Lamp;Home;220;2;2024/08/01;Cash;South Africa
+144;59;Running Shoes;Sports;900;3;2024/08/07;Cash;South Africa
+145;75;Laptop Bag;Accessories;350;3;2024/12/16;EFT;South Africa
+146;5;Backpack;Accessories;500;1;2024/04/14;Cash;Botswana
+147;32;Desk Lamp;Home;220;3;2024/01/15;Wallet;South Africa
+148;34;Water Bottle;Home;120;3;2024/03/19;EFT;South Africa
+149;64;Desk Lamp;Home;220;4;2024/02/20;EFT;South Africa
+150;25;T-shirt;Clothing;180;5;2024/05/14;Card;Namibia
+151;40;Notebook;Stationery;45;1;2024/04/02;Cash;Namibia
+152;64;Wireless Mouse;Electronics;150;1;2024/08/28;Cash;Botswana
+153;20;Notebook;Stationery;45;5;2024/02/24;Card;South Africa
+154;71;USB-C Cable;Electronics;80;4;2024/05/23;EFT;South Africa
+155;24;Bluetooth Headphones;Electronics;650;2;2024/09/24;Wallet;Namibia
+156;30;Wireless Mouse;Electronics;150;3;2024/04/13;EFT;Botswana
+157;26;Wireless Mouse;Electronics;150;5;2024/12/07;Wallet;South Africa
+158;3;Running Shoes;Sports;900;5;2024/11/11;EFT;Namibia
+159;76;T-shirt;Clothing;180;3;2024/02/26;Card;South Africa
+160;73;Notebook;Stationery;45;2;2024/06/07;Wallet;Botswana
+161;7;T-shirt;Clothing;180;3;2024/11/13;Cash;South Africa
+162;60;Running Shoes;Sports;900;5;2024/12/16;Wallet;Namibia
+163;68;Backpack;Accessories;500;5;2024/08/30;EFT;Namibia
+164;46;USB-C Cable;Electronics;80;3;2024/11/28;Wallet;Botswana
+165;35;USB-C Cable;Electronics;80;2;2024/11/20;Cash;Botswana
+166;20;Running Shoes;Sports;900;3;2024/12/10;Wallet;Botswana
+167;36;Bluetooth Headphones;Electronics;650;1;2024/10/15;EFT;South Africa
+168;6;Running Shoes;Sports;900;1;2024/02/13;Card;South Africa
+169;52;Desk Lamp;Home;220;4;2024/07/25;Cash;Botswana
+170;80;Wireless Mouse;Electronics;150;2;2024/03/27;Cash;Botswana
+171;66;Water Bottle;Home;120;1;2024/01/31;Card;South Africa
+172;20;USB-C Cable;Electronics;80;4;2024/10/21;Wallet;South Africa
+173;28;T-shirt;Clothing;180;2;2024/07/28;Wallet;Botswana
+174;63;Bluetooth Headphones;Electronics;650;1;2024/06/21;EFT;Botswana
+175;34;Water Bottle;Home;120;2;2024/01/17;Cash;Namibia
+176;15;Desk Lamp;Home;220;1;2024/03/06;Card;South Africa
+177;59;USB-C Cable;Electronics;80;1;2024/05/27;Wallet;South Africa
+178;59;Water Bottle;Home;120;2;2024/03/14;Wallet;Botswana
+179;26;Wireless Mouse;Electronics;150;2;2024/01/15;EFT;South Africa
+180;42;Notebook;Stationery;45;2;2024/02/20;Card;South Africa
+181;51;Wireless Mouse;Electronics;150;3;2024/04/29;Card;South Africa
+182;12;Desk Lamp;Home;220;5;2024/01/02;Card;South Africa
+183;23;Laptop Bag;Accessories;350;2;2024/03/15;Wallet;Botswana
+184;40;Wireless Mouse;Electronics;150;4;2024/09/27;Cash;South Africa
+185;75;T-shirt;Clothing;180;4;2024/08/25;Card;Botswana
+186;60;Desk Lamp;Home;220;3;2024/10/16;Cash;Namibia
+187;24;Desk Lamp;Home;220;2;2024/10/30;Card;South Africa
+188;45;Desk Lamp;Home;220;3;2024/06/16;Cash;South Africa
+189;42;Notebook;Stationery;45;2;2024/08/06;Cash;Namibia
+190;46;Running Shoes;Sports;900;4;2024/12/28;Wallet;South Africa
+191;69;USB-C Cable;Electronics;80;3;2024/01/14;EFT;South Africa
+192;64;Water Bottle;Home;120;2;2024/09/13;EFT;South Africa
+193;22;Desk Lamp;Home;220;4;2024/07/13;Cash;South Africa
+194;69;Backpack;Accessories;500;5;2024/12/14;Wallet;Botswana
+195;8;Desk Lamp;Home;220;5;2024/11/23;Cash;Botswana
+196;71;Bluetooth Headphones;Electronics;650;2;2024/06/30;Card;Botswana
+197;77;Wireless Mouse;Electronics;150;3;2024/03/06;EFT;Botswana
+198;80;T-shirt;Clothing;180;5;2024/05/12;Cash;Namibia
+199;1;USB-C Cable;Electronics;80;2;2024/08/21;Cash;South Africa
+200;30;Bluetooth Headphones;Electronics;650;2;2024/08/04;Wallet;Namibia
